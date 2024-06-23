@@ -16,7 +16,7 @@ Import data to SQL database
 -Data Processing and DAX Queries
 -DashBoard and Insights
 
-Insights: week 53(31st December)
+Insights: week 53(31st December) :
 
 WoW change: 
 • Revenue increased by 28.8%
