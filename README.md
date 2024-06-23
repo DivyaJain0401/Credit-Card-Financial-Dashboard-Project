@@ -7,14 +7,11 @@ Project Objective:
 
 Steps:
 
-Data Extraction
--Import data to SQL database,Connect Database and import data in Power BI
-Data Processing and DAX Queries
-DashBoard and Insights
+-Data Extraction-Import data to SQL database and Connect Database and import data in Power BI,Data Processing and DAX Queries,DashBoard and Insights
 
 Insights: week 53(31st December) :
 
-WoW change: 
+-WoW change: 
 • Revenue increased by 28.8%
  
  Overview YTD:
