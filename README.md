@@ -14,7 +14,7 @@ Insights: week 53(31st December) :
 -WoW change: 
 • Revenue increased by 28.8%
  
- Overview YTD:
+-Overview YTD:
  • Overall revenue is 57M
  • Total interest is 8M
  • Total transaction amount is 46M
