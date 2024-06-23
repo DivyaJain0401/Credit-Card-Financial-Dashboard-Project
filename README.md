@@ -8,11 +8,11 @@ Project Objective:
 Steps:
 
 -Data Extraction
-Import data to SQL database
- 1. Prepare csv file 
- 2. Create tables in SQL
- 3. Import csv file into SQL
--Connect Database and import data in Power BI
+   Import data to SQL database
+     1. Prepare csv file 
+     2. Create tables in SQL
+     3. Import csv file into SQL
+   Connect Database and import data in Power BI
 -Data Processing and DAX Queries
 -DashBoard and Insights
 
