@@ -2,9 +2,11 @@
 Power BI Dashboard
 
 Project Objective:
+
 -To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 Steps:
+
 -Data Extraction
 Import data to SQL database
  1. Prepare csv file 
@@ -15,6 +17,7 @@ Connect Database and import data in Power BI
 -DashBoard and Insights
 
 Insights: week 53(31st December)
+
 WoW change: 
 • Revenue increased by 28.8%
  Overview YTD:
